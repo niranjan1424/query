@@ -1,11 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-
-# Read the historical stock price data from a CSV file
 df = pd.read_csv(r"C:\Users\LENOVO\Downloads\WhatsApp Image 2023-11-02 at 09.39.30_85640aa8.jpg.csv")
-# Create a DataFrame from the provided data (you can replace this with your data)
-
-# Convert the 'date' column to a datetime object
 df['date'] = pd.to_datetime(df['date'], format='%d-%m-%Y')
 
 # Define the start and end dates
@@ -15,12 +10,12 @@ end_date = '2020-04-23'
 # Filter the data to include only the rows within the specified date range
 filtered_data = df[(df['date'] >= start_date) & (df['date'] <= end_date)]
 
-# Create a bar plot of the trading volume
+# Create a scatter plot of trading volume vs. stock prices
 plt.figure(figsize=(12, 6))
-plt.bar(filtered_data['date'], filtered_data['volume'], color='b', label='Trading Volume')
-plt.title('Trading Volume of Alphabet Inc. Stock')
-plt.xlabel('Date')
-plt.ylabel('Volume')
+plt.scatter(filtered_data['volume'], filtered_data['close'], color='b', label='Volume vs. Stock Prices')
+plt.title('Trading Volume vs. Stock Prices of Alphabet Inc. Stock')
+plt.xlabel('Volume')
+plt.ylabel('Closing Price')
 plt.legend()
-plt.grid(axis='y')
+plt.grid(True)
 plt.show()
