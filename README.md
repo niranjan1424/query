@@ -28,3 +28,6 @@
 ## 10
 ![image](https://github.com/niranjan1424/query/assets/106364901/e37d9887-bc20-4ca1-95e9-34fc10fac7d4)
 
+## 11
+![image](https://github.com/niranjan1424/query/assets/106364901/6176b1ed-cc49-4fe5-ada0-7ac93704c23f)
+
