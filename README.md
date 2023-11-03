@@ -34,3 +34,6 @@
 ## 12
 ![image](https://github.com/niranjan1424/query/assets/106364901/7be80e19-8976-416f-9ce0-6dc0f699d343)
 
+## 13
+![image](https://github.com/niranjan1424/query/assets/106364901/2837be41-0d50-4b50-9b7d-ade9af7c7d71)
+
