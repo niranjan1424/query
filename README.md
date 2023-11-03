@@ -24,3 +24,7 @@
 
 ## 9  
 ![image](https://github.com/niranjan1424/query/assets/106364901/820b762b-430b-4fd3-89c5-6cd150305073)
+
+## 10
+![image](https://github.com/niranjan1424/query/assets/106364901/e37d9887-bc20-4ca1-95e9-34fc10fac7d4)
+
