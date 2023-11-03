@@ -49,5 +49,9 @@
 ## 17
 ![image](https://github.com/niranjan1424/query/assets/106364901/7f18e97d-a455-4e8c-abf1-8202235867d4)
 
+## 18
+![image](https://github.com/niranjan1424/query/assets/106364901/f441129c-7dde-4d5c-86b2-8d95d498438a)
+
+
 
 
