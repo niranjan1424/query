@@ -40,3 +40,6 @@
 ## 14
 ![image](https://github.com/niranjan1424/query/assets/106364901/9b02b904-f36d-4923-b8bd-15c2ff2bec60)
 
+## 15
+![image](https://github.com/niranjan1424/query/assets/106364901/4f0c8b86-3703-4e44-a57d-b963a2e162f6)
+
