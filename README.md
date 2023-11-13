@@ -100,3 +100,6 @@
 
 ## 34
 ![image](https://github.com/niranjan1424/query/assets/106364901/5b78df3a-9967-4014-bdd0-78407a68fdeb)
+
+## 35
+![image](https://github.com/niranjan1424/query/assets/106364901/f3e7458f-cc18-498b-9f86-d559b6d819ad)
