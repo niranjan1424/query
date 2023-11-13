@@ -107,3 +107,5 @@
 ## 36
 ![image](https://github.com/niranjan1424/query/assets/106364901/dfcf1c8f-b60e-4ea7-95e8-95fbd1e6d348)
 
+## 37
+![image](https://github.com/niranjan1424/query/assets/106364901/4bbc6f3a-a73f-4f45-bab7-1b6154fdd956)
