@@ -115,3 +115,7 @@
 
 ## 39
 ![image](https://github.com/niranjan1424/query/assets/106364901/cd089064-ead3-4ff8-a125-c1da2de77ceb)
+
+## 40
+![image](https://github.com/niranjan1424/query/assets/106364901/2c52e44b-4a11-4eae-a0e7-439ca0ea0789)
+
