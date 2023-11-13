@@ -112,3 +112,6 @@
 
 ## 38
 ![image](https://github.com/niranjan1424/query/assets/106364901/9bfecf72-f7be-4394-8e1c-512f9de94405)
+
+## 39
+![image](https://github.com/niranjan1424/query/assets/106364901/cd089064-ead3-4ff8-a125-c1da2de77ceb)
