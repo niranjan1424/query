@@ -95,3 +95,5 @@
 ## 32
 ![image](https://github.com/niranjan1424/query/assets/106364901/2736603a-156a-4c1a-931e-5c72a268f1c1)
 
+## 33
+![image](https://github.com/niranjan1424/query/assets/106364901/dc534a11-d1af-4239-9f96-f9b9fc95a156)
