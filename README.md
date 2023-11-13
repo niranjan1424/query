@@ -77,3 +77,6 @@
 ## 26
 ![image](https://github.com/niranjan1424/query/assets/106364901/3aa5c52b-2cb3-4bb2-8f65-42f430ed5f74)
 
+## 27 
+![image](https://github.com/niranjan1424/query/assets/106364901/88a59aac-e814-4051-a518-6613219514ee)
+
